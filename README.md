@@ -41,9 +41,13 @@ Deployment: Hugging Face
 1. Credit Card Prediction.ipynb
 
 Dataset Information: Detailed description of the dataset used.
+
 Exploratory Data Analysis (EDA): Identifying patterns and visualizing trends.
+
 Feature Engineering: Creating and selecting features.
+
 Modeling: Training classification models.
+
 Evaluation: Assessing model performance.
 
 2. P1G5_Set_1_kelvin_rizky.csv
